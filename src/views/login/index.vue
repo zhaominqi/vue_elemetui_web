@@ -120,7 +120,7 @@ export default {
     return {
       loginForm: {
         username: 'admin',
-        password: 'a1111111',
+        password: '1q2w3e',
         verifycode: '',
         code: process.env.BASE_API + '/system/patchca'
       },
